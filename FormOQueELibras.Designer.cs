@@ -69,7 +69,7 @@
             // 
             // textBoxConteudo
             // 
-            textBoxConteudo.BackColor = Color.FromArgb(30, 72, 143);
+            textBoxConteudo.BackColor = Color.FromArgb(21, 49, 126);
             textBoxConteudo.BorderStyle = BorderStyle.None;
             textBoxConteudo.Font = new Font("Comic Sans MS", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             textBoxConteudo.ForeColor = Color.FromArgb(237, 187, 48);
