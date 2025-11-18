@@ -42,6 +42,8 @@
             lblDisciplina = new Label();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
+            label3 = new Label();
+            label4 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -175,7 +177,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(343, 525);
+            pictureBox1.Location = new Point(749, 525);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(375, 108);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -185,12 +187,38 @@
             // pictureBox2
             // 
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(758, 525);
+            pictureBox2.Location = new Point(340, 525);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(377, 108);
             pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox2.TabIndex = 15;
             pictureBox2.TabStop = false;
+            // 
+            // label3
+            // 
+            label3.BackColor = Color.Transparent;
+            label3.Font = new Font("Comic Sans MS", 22F, FontStyle.Bold);
+            label3.ForeColor = Color.FromArgb(237, 187, 48);
+            label3.Location = new Point(340, 472);
+            label3.Name = "label3";
+            label3.Size = new Size(377, 50);
+            label3.TabIndex = 16;
+            label3.Text = "Desenvolvimento:";
+            label3.TextAlign = ContentAlignment.TopCenter;
+            label3.Click += label3_Click;
+            // 
+            // label4
+            // 
+            label4.BackColor = Color.Transparent;
+            label4.Font = new Font("Comic Sans MS", 22F, FontStyle.Bold);
+            label4.ForeColor = Color.FromArgb(237, 187, 48);
+            label4.Location = new Point(749, 472);
+            label4.Name = "label4";
+            label4.Size = new Size(375, 50);
+            label4.TabIndex = 17;
+            label4.Text = "Apoio:";
+            label4.TextAlign = ContentAlignment.TopCenter;
+            label4.Click += label4_Click;
             // 
             // FormQuemSomos
             // 
@@ -199,6 +227,8 @@
             BackColor = Color.FromArgb(21, 49, 126);
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1147, 645);
+            Controls.Add(label4);
+            Controls.Add(label3);
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
             Controls.Add(lblDisciplina);
@@ -239,5 +269,7 @@
         private Label lblDisciplina;
         private PictureBox pictureBox1;
         private PictureBox pictureBox2;
+        private Label label3;
+        private Label label4;
     }
 }
