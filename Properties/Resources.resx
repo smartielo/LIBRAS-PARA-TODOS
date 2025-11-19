@@ -121,15 +121,6 @@
   <data name="btnLibras.BackgroundImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnLibras.BackgroundImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="libras_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="ALFABETO-LETRA" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ALFABETO-LETRA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -139,50 +130,17 @@
   <data name="oquee_img2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\oquee_img2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="libras_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_divisao" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_divisao.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_subtracao" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_subtracao.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="btnJogo.BackgroundImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnJogo.BackgroundImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="libras_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="btnNumSin.BackgroundImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnNumSin.BackgroundImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="fundo_principal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fundo_principal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="btnQuem.BackgroundImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnQuem.BackgroundImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_multiplicacao" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_multiplicacao.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="libras_soma" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libras_soma.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="btn_imagemSaida.BackgroundImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btn_imagemSaida.BackgroundImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -192,5 +150,47 @@
   </data>
   <data name="verso" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\verso.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_divisao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_divisao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_multiplicacao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_multiplicacao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_subtracao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_subtracao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libras_soma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libras_soma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

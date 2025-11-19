@@ -84,6 +84,7 @@
             // picHistoria1
             // 
             picHistoria1.BackgroundImage = Properties.Resources.oquee_img1;
+            picHistoria1.BorderStyle = BorderStyle.Fixed3D;
             picHistoria1.Location = new Point(40, 150);
             picHistoria1.Name = "picHistoria1";
             picHistoria1.Size = new Size(380, 200);
@@ -95,6 +96,7 @@
             // 
             picHistoria2.BackgroundImage = Properties.Resources.oquee_img2;
             picHistoria2.BackgroundImageLayout = ImageLayout.Stretch;
+            picHistoria2.BorderStyle = BorderStyle.Fixed3D;
             picHistoria2.Location = new Point(40, 360);
             picHistoria2.Name = "picHistoria2";
             picHistoria2.Size = new Size(380, 190);
