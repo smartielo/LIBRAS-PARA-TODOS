@@ -30,6 +30,9 @@ namespace LIBRAS_PARA_TODOS
         {
             // 1. Identifica qual PictureBox foi clicado
             PictureBox picClicado = (PictureBox)sender;
+        
+            picGrandeDisplay.BackgroundImage = null;// Remove a imagem de fundo ("verso")
+            picGrandeDisplay.BorderStyle = BorderStyle.None;// Remove a borda (moldura)
 
             // 2. Pega a imagem desse PictureBox...
             // 3. ...e a exibe no PictureBox grande
